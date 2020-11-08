@@ -1,7 +1,7 @@
 {
 "companyName": "Kevin Joseph",
-"productName": "Untitled Video Game",
-"productVersion": "0.1",
+"productName": "Obstacle Blitz",
+"productVersion": "0.5",
 "dataUrl": "Videogame.data.unityweb",
 "wasmCodeUrl": "Videogame.wasm.code.unityweb",
 "wasmFrameworkUrl": "Videogame.wasm.framework.unityweb",
@@ -12,5 +12,5 @@
 "cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.2.17f1"
+"unityVersion": "2019.4.14f1"
 }
